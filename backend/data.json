@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1037,
+    "name": "1401",
+    "type": "Apartment",
+    "residentialUnitGroupId": 1010,
+    "floor": 1,
+    "layoutType": "F1",
+    "deadlines": [
+      {
+        "Name": "Interier",
+        "Date": "2019-12-12T12:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "In progress"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Not sent"
+      }
+    ],
+    "buyers": [
+      {
+        "id": 2,
+        "firstName": "Yuval",
+        "lastName": "Montuelle",
+        "email": "yuval@bygr.io",
+        "displayName": "Yuval Montuelle",
+        "phoneNumber": "92869069",
+        "lastVisitDate": "2019-11-14T11:15:47.5614882+00:00"
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "name": "1402",
+    "type": "Apartment",
+    "residentialUnitGroupId": 1010,
+    "floor": 1,
+    "layoutType": "Z1",
+    "deadlines": [
+      {
+        "Name": "Interier",
+        "Date": "2019-12-12T12:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Not sent"
+      }
+    ],
+    "buyers": [
+      {
+        "id": 3,
+        "firstName": "Matthew",
+        "lastName": "Raft",
+        "email": "matthew@bygr.io",
+        "displayName": "Matthew Raft",
+        "phoneNumber": "1881727",
+        "lastVisitDate": "2019-11-10T11:08:47.5614882+00:00"
+      },
+      {
+        "id": 4,
+        "firstName": "Pamela",
+        "lastName": "Anderson",
+        "email": "Pam@bygr.io",
+        "displayName": "Pamela Anderson",
+        "phoneNumber": "9021000",
+        "lastVisitDate": "2019-09-22T11:05:47.5614882+00:00"
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "1403",
+    "type": "Apartment",
+    "residentialUnitGroupId": 1011,
+    "floor": 2,
+    "layoutType": "A1",
+    "deadlines": [
+      {
+        "Name": "Interier",
+        "Date": "2019-12-12T12:00:00.00+00:00",
+        "Status": "Not sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Not sent"
+      }
+    ],
+    "buyers": [
+      {
+        "id": 5,
+        "firstName": "Guy",
+        "lastName": "Montuelle",
+        "email": "guy@bygr.io",
+        "displayName": "Guy Montuelle",
+        "phoneNumber": "92869069",
+        "lastVisitDate": "2019-10-22T11:05:47.5614882+00:00"
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "1404",
+    "type": "Apartment",
+    "residentialUnitGroupId": 1011,
+    "floor": 2,
+    "layoutType": "A2",
+    "deadlines": [
+      {
+        "Name": "Interier",
+        "Date": "2019-12-12T12:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Sent"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Not sent"
+      }
+    ],
+    "buyers": [
+      {
+        "id": 6,
+        "firstName": "Viljar",
+        "lastName": "Rolfsen",
+        "email": "viljar@bygr.io",
+        "displayName": "Viljar Rolfsen",
+        "phoneNumber": "92869069",
+        "lastVisitDate": "2019-11-21T11:05:47.5614882+00:00"
+      }
+    ]
+  },
+  {
+    "id": 1139,
+    "name": "1405",
+    "type": "Apartment",
+    "residentialUnitGroupId": 1011,
+    "floor": 2,
+    "layoutType": "2B",
+    "deadlines": [
+      {
+        "Name": "Interier",
+        "Date": "2019-12-12T12:00:00.00+00:00",
+        "Status": "In progress"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "In progress"
+      },
+      {
+        "Name": "Exterior",
+        "Date": "2020-2-10T11:00:00.00+00:00",
+        "Status": "Not sent"
+      }
+    ],
+    "buyers": [
+      {
+        "id": 7,
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "email": "bruce@bygr.io",
+        "displayName": "Bruce Wayne",
+        "phoneNumber": "919181823",
+        "lastVisitDate": "2019-11-20T11:05:47.5614882+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+* {
+    color: #1F222A;
+    font-family: Roboto, sans-serif;
+}
+.d-flex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
